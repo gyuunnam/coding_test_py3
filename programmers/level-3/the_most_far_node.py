@@ -1,3 +1,4 @@
+#https://programmers.co.kr/learn/courses/30/lessons/49189
 from collections import deque
 
 def bfs(v, visited, adj):
