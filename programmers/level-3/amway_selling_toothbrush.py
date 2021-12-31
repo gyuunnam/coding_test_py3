@@ -1,3 +1,4 @@
+#https://programmers.co.kr/learn/courses/30/lessons/77486
 from collections import defaultdict
 import math
 def solution(enroll, referral, seller, amount):

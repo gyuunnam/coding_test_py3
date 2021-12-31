@@ -1,3 +1,4 @@
+#https://programmers.co.kr/learn/courses/30/lessons/43238
 def solution(n, times):
     answer = 0
     # right는 가장 비효율적으로 심사했을 때 걸리는 시간
